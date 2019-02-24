@@ -1,0 +1,35 @@
+{
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
+  "workbench.iconTheme": "vs-seti",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "html": {
+      "attr_quotes": "single"
+    },
+    "jsx": {
+      "self_closing_tag": true
+    }
+  },
+  "editor.tabSize": 2,
+  "editor.fontSize": 19,
+  "extensions.autoUpdate": false,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.fontFamily": "IBM 3270",
+  "explorer.confirmDelete": false,
+  "prettier.singleQuote": true,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.fontSize": 11,
+  "terminal.integrated.fontFamily": "Monoid",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.rendererType": "dom",
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "explorer.decorations.badges": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  "files.trimFinalNewlines": true,
+  "diffEditor.ignoreTrimWhitespace": true
+}

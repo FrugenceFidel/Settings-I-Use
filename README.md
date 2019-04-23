@@ -1,3 +1,3 @@
-# Setting I use
+# My Settings
 
-Settings I use to my editor, terminal, etc
+Settings I use for my development in editor, terminal, etc.

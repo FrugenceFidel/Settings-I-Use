@@ -2,7 +2,7 @@ Here are the list of all the extensions I use.
 
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+- [Theme - Oceanic Next](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
 
 - [Open In Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 

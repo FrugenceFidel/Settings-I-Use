@@ -11,7 +11,7 @@
     }
   },
   "editor.tabSize": 2,
-  "editor.fontSize": 19,
+  "editor.fontSize": 17,
   "extensions.autoUpdate": false,
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
@@ -22,8 +22,6 @@
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.fontSize": 11,
-  "terminal.integrated.fontFamily": "Monoid",
   "workbench.startupEditor": "none",
   "terminal.integrated.rendererType": "dom",
   "editor.lineHeight": 24,
@@ -31,5 +29,6 @@
   "explorer.decorations.badges": false,
   "workbench.editor.highlightModifiedTabs": true,
   "files.trimFinalNewlines": true,
-  "diffEditor.ignoreTrimWhitespace": true
+  "diffEditor.ignoreTrimWhitespace": true,
+  "git.enableSmartCommit": true
 }

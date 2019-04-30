@@ -11,13 +11,13 @@
     }
   },
   "editor.tabSize": 2,
-  "editor.fontSize": 17,
+  "editor.fontSize": 20,
   "extensions.autoUpdate": false,
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontFamily": "IBM 3270",
+  "editor.fontFamily": "Inconsolata",
   "explorer.confirmDelete": false,
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,

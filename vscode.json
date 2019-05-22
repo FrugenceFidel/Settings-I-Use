@@ -17,13 +17,20 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.next": true
+  },
   "editor.fontFamily": "Inconsolata",
   "explorer.confirmDelete": false,
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.startupEditor": "none",
-  "terminal.integrated.rendererType": "dom",
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
   "explorer.decorations.badges": false,

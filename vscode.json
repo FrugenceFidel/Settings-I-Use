@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Oceanic Next",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "vs-seti",
   "emmet.triggerExpansionOnTab": true,
   "emmet.syntaxProfiles": {
@@ -11,7 +11,7 @@
     }
   },
   "editor.tabSize": 2,
-  "editor.fontSize": 20,
+  "editor.fontSize": 18,
   "extensions.autoUpdate": false,
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
@@ -25,7 +25,7 @@
     "**/.DS_Store": true,
     "**/.next": true
   },
-  "editor.fontFamily": "Inconsolata",
+  "editor.fontFamily": "Fira Code",
   "explorer.confirmDelete": false,
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,

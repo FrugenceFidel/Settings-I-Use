@@ -11,7 +11,7 @@
     }
   },
   "editor.tabSize": 2,
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "extensions.autoUpdate": false,
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
@@ -25,7 +25,7 @@
     "**/.DS_Store": true,
     "**/.next": true
   },
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "Inconsolata",
   "explorer.confirmDelete": false,
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,

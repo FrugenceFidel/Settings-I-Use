@@ -13,3 +13,7 @@ Here are the list of all extensions I use.
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
 
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)

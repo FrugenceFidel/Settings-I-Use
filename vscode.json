@@ -25,7 +25,7 @@
     "**/.DS_Store": true,
     "**/.next": true
   },
-  "editor.fontFamily": "Inconsolata, monospace",
+  "editor.fontFamily": "Inconsolata",
   "explorer.confirmDelete": false,
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,
@@ -37,5 +37,7 @@
   "workbench.editor.highlightModifiedTabs": true,
   "files.trimFinalNewlines": true,
   "diffEditor.ignoreTrimWhitespace": true,
-  "git.enableSmartCommit": true
+  "git.enableSmartCommit": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "Inconsolata"
 }

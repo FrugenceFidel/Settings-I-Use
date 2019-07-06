@@ -4,6 +4,8 @@ Here are the list of all extensions I use.
 
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
+- [EJS language support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
+
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
 
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)

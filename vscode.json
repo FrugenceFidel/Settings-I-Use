@@ -39,5 +39,6 @@
   "diffEditor.ignoreTrimWhitespace": true,
   "git.enableSmartCommit": true,
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "Inconsolata"
+  "terminal.integrated.fontFamily": "Inconsolata",
+  "terminal.integrated.rendererType": "dom"
 }

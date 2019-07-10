@@ -40,5 +40,6 @@
   "git.enableSmartCommit": true,
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "Inconsolata",
-  "terminal.integrated.rendererType": "dom"
+  "terminal.integrated.rendererType": "dom",
+  "update.mode": "manual"
 }

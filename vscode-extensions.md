@@ -6,11 +6,11 @@ Here are the list of all extensions I use.
 
 - [EJS language support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
 
-- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
-
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)
 
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 

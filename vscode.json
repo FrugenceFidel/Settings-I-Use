@@ -25,7 +25,7 @@
     "**/.DS_Store": true,
     "**/.next": true
   },
-  "editor.fontFamily": "Inconsolata",
+  "editor.fontFamily": "Operator Mono",
   "explorer.confirmDelete": false,
   "prettier.singleQuote": true,
   "explorer.confirmDragAndDrop": false,
@@ -39,7 +39,7 @@
   "diffEditor.ignoreTrimWhitespace": true,
   "git.enableSmartCommit": true,
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "Inconsolata",
+  "terminal.integrated.fontFamily": "Operator Mono",
   "terminal.integrated.rendererType": "dom",
   "update.mode": "manual",
   "editor.minimap.enabled": false,

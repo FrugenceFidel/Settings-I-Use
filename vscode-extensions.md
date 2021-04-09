@@ -10,6 +10,8 @@ Here are the list of all extensions I use.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)
 
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
@@ -25,5 +27,7 @@ Here are the list of all extensions I use.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+- [Tailwind CSS IntelliSense Preview](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
